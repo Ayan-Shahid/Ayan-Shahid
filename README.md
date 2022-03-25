@@ -1,5 +1,9 @@
 <div align="center">Hi! I'm Ayan Shahid</div>
 
+
+
+
+
 <div id="badges" align="center">
   <a href="https://twitter.com/Ayan_255"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://www.instagram.com/ayanshahid255/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
@@ -7,8 +11,15 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=AyanShahid&style=flat-square&color=blueviolet" alt=""/></div>
 
+
+
+
+
 ### 👨‍💻 About Me :
 <p>I'm a React JS web developer. I build web apps using React JS and Next JS with Typescript, Styled Components MongoDb and Firebase.</p>
+
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -25,9 +36,18 @@
   
 </div>
 
+
+
+
+
+
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyanShahid&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1C1C1C&ring=834AFF&currStreakNum=DDDDDD&fire=DDDDDD&sideNums=844AFF&currStreakLabel=DDDDDD&sideLabels=DDDDDD&border=FFFFFF)](https://git.io/streak-stats)
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanShahid&layout=compact&title_color=eaeaea&icon_color=844AFF&bg_color=1a1a1a&show_icons=true&count_private=true&show_owner=true&text_color=eaeaea)](https://github.com/anuraghazra/github-readme-stats)
 
