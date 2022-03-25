@@ -1,10 +1,5 @@
-<div style={{display: "flex", flexDirection: "column", gap: "1rem"}} align="center">Hi! I'm Ayan Shahid</div>
-
-
-
-
-
-<div id="badges" align="center">
+<div align="center">Hi! I'm Ayan Shahid</div>
+<div margin="1rem" id="badges" align="center">
   <a href="https://twitter.com/Ayan_255"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://www.instagram.com/ayanshahid255/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
