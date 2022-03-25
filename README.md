@@ -1,8 +1,8 @@
 <div align="center">Hi! I'm Ayan Shahid</div>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://twitter.com/Ayan_255"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://www.instagram.com/ayanshahid255/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=AyanShahid&style=flat-square&color=blueviolet" alt=""/></div>
