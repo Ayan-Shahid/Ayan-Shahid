@@ -1,4 +1,4 @@
-<div align="center">Hi! I'm Ayan Shahid</div>
+<div style={{display: "flex", flexDirection: "column", gap: "1rem"}} align="center">Hi! I'm Ayan Shahid</div>
 
 
 
