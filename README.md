@@ -31,6 +31,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next JS" alt="Next JS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+
   
 </div>
 
@@ -48,3 +50,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyanShahid&theme=dark&show_icons=true&title_color=844AFF&icon_color=844AFF&bg_color=1a1a1a&hide_border=true&text_color=eaeaea)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanShahid)](https://github.com/anuraghazra/github-readme-stats)
