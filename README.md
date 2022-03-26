@@ -53,3 +53,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanShahid&show_icons=true&title_color=844AFF&icon_color=844AFF&bg_color=1a1a1a&hide_border=true&text_color=eaeaea)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyanShahid&repo=Social-App&show_icons=true&title_color=844AFF&icon_color=844AFF&bg_color=1a1a1a&hide_border=true&text_color=eaeaea)](https://github.com/anuraghazra/github-readme-stats)
