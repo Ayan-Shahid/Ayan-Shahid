@@ -1,4 +1,4 @@
-<div align="center"><img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="gif" width="500" height="300" /></div>
+<div align="center"><img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="gif" width="400" height="300" /></div>
 
 
 <div align="center"><h1>Hi! I'm Ayan Shahid</h1></div>
