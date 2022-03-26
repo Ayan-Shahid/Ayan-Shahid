@@ -47,4 +47,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyanShahid&theme=dark&show_icons=true&title_color=eaeaea&icon_color=844AFF&bg_color=1a1a1a&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyanShahid&theme=dark&show_icons=true&title_color=eaeaea&icon_color=844AFF&bg_color=1a1a1a&hide_border=true&text_color=eaeaea)
