@@ -57,3 +57,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayan-Shahid&repo=Social-Media-App&show_icons=true&title_color=eaeaea&icon_color=844AFF&bg_color=1a1a1a&hide_border=true&text_color=eaeaea)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayan-Shahid&repo=Blog-App&show_icons=true&title_color=eaeaea&icon_color=844AFF&bg_color=1a1a1a&hide_border=true&text_color=eaeaea)](https://github.com/anuraghazra/github-readme-stats)
+)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayan-Shahid&repo=Chat-App&show_icons=true&title_color=eaeaea&icon_color=844AFF&bg_color=1a1a1a&hide_border=true&text_color=eaeaea)](https://github.com/anuraghazra/github-readme-stats)
